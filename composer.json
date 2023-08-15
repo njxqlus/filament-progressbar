@@ -41,8 +41,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Njxqlus\\FilamentProgressbar\\": "src/",
-            "Njxqlus\\FilamentProgressbar\\Database\\Factories\\": "database/factories/"
+            "Njxqlus\\FilamentProgressbar\\": "src/"
         }
     },
     "autoload-dev": {
