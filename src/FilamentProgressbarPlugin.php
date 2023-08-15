@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Blade;
 class FilamentProgressbarPlugin implements Plugin
 {
     protected string $color = '#29b';
+
     protected string $renderHook = 'panels::head.end';
 
     public function getId(): string
@@ -45,7 +46,7 @@ class FilamentProgressbarPlugin implements Plugin
     {
         FilamentView::registerRenderHook(
             $this->getRenderHook(),
-            fn(): string => Blade::render("<style>:root {--filament-progressbar-color: {$this->getColor()}}</style>")
+            fn (): string => Blade::render("<style>:root {--filament-progressbar-color: {$this->getColor()}}</style>")
         );
     }
 
