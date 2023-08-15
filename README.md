@@ -1,6 +1,7 @@
 # Filament Progress Bar Plugin
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/njxqlus/filament-progressbar.svg?style=flat-square)](https://packagist.org/packages/njxqlus/filament-progressbar)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/njxqlus/filament-progressbar/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/njxqlus/filament-progressbar/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/njxqlus/filament-progressbar.svg?style=flat-square)](https://packagist.org/packages/njxqlus/filament-progressbar)
 
 
