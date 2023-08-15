@@ -43,7 +43,6 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 ## Credits
 
 - [Mikael Ahabalyants](https://github.com/njxqlus)
-- [All Contributors](../../contributors)
 - Arthur Minasyan
 
 ## License
