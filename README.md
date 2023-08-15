@@ -5,6 +5,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/njxqlus/filament-progressbar.svg?style=flat-square)](https://packagist.org/packages/njxqlus/filament-progressbar)
 
 
+![Filament Progress Bar](./.github/banner.png?raw=true "Filament Progress Bar")
 
 This Filament component shows a progress bar at the top of the page when we navigate from one page to another
 
